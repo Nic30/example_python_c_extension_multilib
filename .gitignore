@@ -102,3 +102,16 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# build dirs
+example_setuptools/build
+example_setuptools/dist
+
+example_skbuild/build
+example_skbuild/dist
+example_skbuild/_skbuild
+
+# eclipse project
+.pydevproject
+.project
+.settings
