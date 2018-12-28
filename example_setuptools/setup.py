@@ -30,6 +30,5 @@ setup(
     version='1.2',
     author='Michal Orsak',
     author_email='michal.o.socials@gmail.com',
-    # libraries=[antlr4],
     ext_modules=[lib0, ext0],
 )
